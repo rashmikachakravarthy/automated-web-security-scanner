@@ -1,0 +1,7 @@
+SUBMISSION CHECKLIST
+[ ] Replace placeholders in PROJECT_REPORT.docx and README.md with your details.
+[ ] Run scanner.py on a permitted test target.
+[ ] Add real screenshots to the report's Results and Evidence section.
+[ ] Confirm scanner.py runs on the computer used for the demo.
+[ ] Submit the project folder or ZIP as requested by the bootcamp.
+[ ] If a GitHub repository is required, create it in your own GitHub account and push these files.
