@@ -54,5 +54,4 @@ automated_web_security_scanner/
 - Header recommendations depend on application design and deployment.
 - Do not scan websites unless you own them or have explicit permission.
 
-## Author
-Student project — edit this section to add your name, institution, and bootcamp details before submission.
+
